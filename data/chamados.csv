@@ -1,0 +1,9 @@
+problema,causa,solucao
+"Computador não liga","Fonte de alimentação queimada","Substituição da fonte de alimentação e teste de voltagem"
+"Internet caindo constantemente","Roteador com firmware desatualizado","Atualização do firmware do roteador e reconfiguração da rede"
+"Impressora não imprime","Papel atolado nos roletes internos","Remoção manual do papel atolado e limpeza do equipamento"
+"Usuário não consegue fazer login","Senha expirada no Active Directory","Reset de senha realizado e usuário forçado a criar nova senha no próximo login"
+"Tela azul no Windows (BSOD)","Módulo de memória RAM com defeito","Troca do pente de memória RAM e execução de diagnóstico do sistema"
+"Lentidão extrema no sistema ERP","Banco de dados sobrecarregado","Otimização das queries de busca e aumento de recursos no servidor"
+"Monitor piscando ou sem imagem","Cabo HDMI danificado ou mal conectado","Substituição do cabo HDMI por um novo"
+"E-mails não estão sendo enviados","Filtro de spam bloqueando o domínio","Adição do domínio na whitelist do servidor de e-mail"
