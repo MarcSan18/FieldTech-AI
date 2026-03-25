@@ -1,1 +1,34 @@
 .env
+.venv/
+venv/
+env/
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.swp
+
+# Configurações do VS Code
+.vscode/
+.history/
+*.code-workspace
+
+# Pacotes e builds
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Banco de dados local
+*.sqlite3
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
